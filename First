@@ -6,3 +6,6 @@ this repositry contain various commands
 2. cal
   this is used to show calender of current month
   syntex: cal
+3. date
+  to show the system date
+  syntax date
